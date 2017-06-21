@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/libs/voce.jar
+FILE_HASH=5c2d7215760118347f2d6222ca6760dbf7c42e7e
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

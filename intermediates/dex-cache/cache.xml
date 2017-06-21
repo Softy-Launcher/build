@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/5d7143df180edf81ed3fef24ed2f6dfb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/undobar-1.7.1.aar/f27cfb2e3471c69e6411164281dc119f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beb36f6a4b91dd74db444d79f0a97742be89ee96">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/0645d3d8a1286430c53fa7fc686e63d0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/6153011e3f53943d09e054aabba7de10/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/089e666454b7925d8d8c5f50df787f1d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/d4b38db1fa8bf559780bd775fbfd3676/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/colorpicker-2.0.4.aar/4c5f26f6205081cc4105cb93eb7f3350/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88948a1b8c5fb416c07c54d440864e2189ca2b58">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/a92fdd46eeb0e99d33a794a7b0fd486a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/59ffe5ef783b3c0435c363cd4fddafbf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/e0a5da40c45d1395fa642ba9edf248c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/4198bcfbbcfdb1f7629703b50ce9d0b1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/4293d0c3059c090fe5aac489393f1538/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/blurry-2.1.0.aar/2a067ac844f3cd6dd9eef073e09db8ff/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49050354bece84091394b0215286f3ed7293e33c">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/7d9dc027c0c1c3e31c9bad9ce0a5005a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/57ee5512ee142b03c98026ff7ff69f60/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/softy/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c4d5dbc85643fb906c21d2bdc851ad05/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+
+</items>

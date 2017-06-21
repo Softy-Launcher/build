@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/media/softy/Developer/apps/Android/AndroidStudioProjects/SAL/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=d443e44c0fc0c660960e7d4dc7f7fa9bfcb9a702
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
